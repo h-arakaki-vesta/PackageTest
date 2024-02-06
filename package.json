@@ -1,0 +1,18 @@
+{
+  "name": "com.h-arakaki.arakaki0530",
+  "version": "1.0.0",
+  "displayName": "Arakaki Test",
+  "description": "\u30c6\u30b9\u30c8",
+  "unity": "2021.3",
+  "unityRelease": "27f1",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Hayate Arakaki",
+    "email": "hayateasdf@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
